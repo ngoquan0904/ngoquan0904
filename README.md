@@ -12,10 +12,10 @@
 👨‍💻 All of my personal projects are available [here](https://github.com/ngoquan0904). Please give a star if you like them.
 
 📫 You can contact me directly via this email: **ngoquan0904@gmail.com** or check out my CV [here](https://drive.google.com/file/d/18IZAC1v84ZCIvvrmtZWkLncdU3C61mZS/view?usp=sharing)
-## Connect with me:
-[<img src="https://skillicons.dev/icons?i=linkedin" width="40" />](https://www.linkedin.com/in/trungviet17/)
-[<img src="https://skillicons.dev/icons?i=kaggle" width="40" />](https://kaggle.com/trungviet17)
-[<img src="https://skillicons.dev/icons?i=facebook" width="40" />](https://facebook.com/trungviet17)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>](mailto:trungviet17@gmail.com)
+## 🛠️ Languages and Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,django,docker,java,latex,matlab,python,pytorch,sklearn,tensorflow&perline=8" />
+</p>
 
 ---
