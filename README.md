@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHByY2tuMWZyeWNiMjZpeXl2cDJtamtvczNuNWphcjRxMHdvNWZqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S45If9bT4ny1xAvA4A/giphy.gif" width="300"/>
+</p>
 <div align="center">
   <h1>Hi 👋, I'm Quan</h1>
 </div>
@@ -8,4 +11,4 @@
 
 👨‍💻 All of my personal projects are available [here](https://github.com/ngoquan0904). Please give a star if you like them.
 
-📫 You can contact me directly via this email: **ngoquan0904@gmail.com** or check out my CV [here](https://drive.google.com/file/d/1tNfsRk-YzZMgZOw4VzZdSgZp2_1nb30X/view?usp=sharing)
+📫 You can contact me directly via this email: **ngoquan0904@gmail.com** or check out my CV [here](https://drive.google.com/file/d/18IZAC1v84ZCIvvrmtZWkLncdU3C61mZS/view?usp=sharing)
