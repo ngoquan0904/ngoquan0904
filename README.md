@@ -12,10 +12,8 @@
 👨‍💻 All of my personal projects are available [here](https://github.com/ngoquan0904). Please give a star if you like them.
 
 📫 You can contact me directly via this email: **ngoquan0904@gmail.com** or check out my CV [here](https://drive.google.com/file/d/18IZAC1v84ZCIvvrmtZWkLncdU3C61mZS/view?usp=sharing)
-## 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,django,docker,java,latex,matlab,python,pytorch,sklearn,tensorflow&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,googlecloud&perline=8" />
 
----
+**Other Tools & Frameworks:** LangChain • LangGraph • A2A • Qdrant
