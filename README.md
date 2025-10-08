@@ -12,7 +12,10 @@
 👨‍💻 All of my personal projects are available [here](https://github.com/ngoquan0904). Please give a star if you like them.
 
 📫 You can contact me directly via this email: **ngoquan0904@gmail.com** or check out my CV [here](https://drive.google.com/file/d/18IZAC1v84ZCIvvrmtZWkLncdU3C61mZS/view?usp=sharing)
-🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)
+## Connect with me:
+[<img src="https://skillicons.dev/icons?i=linkedin" width="40" />](https://www.linkedin.com/in/trungviet17/)
+[<img src="https://skillicons.dev/icons?i=kaggle" width="40" />](https://kaggle.com/trungviet17)
+[<img src="https://skillicons.dev/icons?i=facebook" width="40" />](https://facebook.com/trungviet17)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>](mailto:trungviet17@gmail.com)
+
+---
