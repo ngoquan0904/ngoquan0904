@@ -17,9 +17,4 @@
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,googlecloud&perline=8&theme=light" />
 
 **Other Tools & Frameworks:** LangChain • LangGraph • A2A • Qdrant
-## 📊 NgoQuan's GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoquan0904&show_icons=true&theme=tokyonight)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=ngoquan0904&theme=tokyonight)
-
-![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngoquan0904&theme=tokyonight)
-![Grade Card](https://github-profile-summary-cards.vercel.app/api/cards/grade?username=ngoquan0904&theme=tokyonight)
