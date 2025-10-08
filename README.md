@@ -14,10 +14,9 @@
 📫 You can contact me directly via this email: **ngoquan0904@gmail.com** or check out my CV [here](https://drive.google.com/file/d/18IZAC1v84ZCIvvrmtZWkLncdU3C61mZS/view?usp=sharing)
 ### 🛠️ Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,docker,googlecloud&theme=light" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" height="48" />
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,docker,googlecloud&theme=light" />
 
 **Other Tools & Frameworks:**  
-LangChain • LangGraph • CrewAI • ChromaDB • MCP • GoogleADK • A2A • Qdrant
+LangChain • LangGraph • CrewAI • GoogleADK • ChromaDB • Qdrant • MCP •  A2A 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngoquan0904&show_icons=true&theme=tokyonight)
